@@ -1,6 +1,9 @@
 body{
-    background-color: powderblue;
+    background-color: mediumturquoise;
 }
 h1{
     text-align: center; color: mintcream;
+}
+p{
+    text-align: justify;color: ghostwhite;
 }
